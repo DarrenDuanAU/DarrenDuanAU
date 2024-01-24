@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi, I'm Darren Duan 👋
 
 - 🔭 I've been coding in JavaScript primarily for over 1.5 years.
 - 🌱 I’m an experienced frontend developer. (a big fan of Next.js and Tailwind).
